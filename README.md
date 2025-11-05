@@ -7,6 +7,7 @@ This repository contains my implementations of various design patterns in Python
 The repository is organized by design patterns, with each pattern implementation in its own directory:
 
 - `observer_pattern/` - Implementation of the Observer Pattern
+- `strategy_pattern/` - Implementation of the Strategy Pattern
 
 ## Learning Resources
 - [RefactoringGuru Design Patterns](https://refactoring.guru/design-patterns) - Excellent visual explanations of design patterns
