@@ -8,6 +8,7 @@ The repository is organized by design patterns, with each pattern implementation
 
 - `observer_pattern/` - Implementation of the Observer Pattern
 - `strategy_pattern/` - Implementation of the Strategy Pattern
+- `decorator_pattern/` - Implementation of the Decorator Pattern
 
 ## Learning Resources
 - [RefactoringGuru Design Patterns](https://refactoring.guru/design-patterns) - Excellent visual explanations of design patterns
