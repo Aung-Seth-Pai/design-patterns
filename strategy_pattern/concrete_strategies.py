@@ -1,5 +1,7 @@
 '''
-different concrete strategies implementing various algorithms
+the concrete implementations of strategy interface.
+according to interface segration principle, each strategy class
+implements only one algorithm.
 '''
 
 from interfaces import Strategy

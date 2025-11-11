@@ -5,7 +5,7 @@ def main():
     # Sample data
     data = [1, 2, 2, 3, 4, 5, 5, 5]
 
-    # Create context with initial strategy
+    # client creates context with initial strategy
     context = Context(strategy=SumStrategy())
     print("Sum:", context.execute_strategy(data))
 

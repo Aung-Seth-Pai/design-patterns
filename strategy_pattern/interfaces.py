@@ -1,4 +1,4 @@
-''' abstract strategy interface '''
+''' defines the abstract strategy interface '''
 from abc import ABC, abstractmethod
 
 class Strategy(ABC):
